@@ -1,5 +1,5 @@
 # Group-project-website
-Here's a website I teamed up with on a group of 4 students for a karaoke night
+Here's a website I teamed up with on a group of 4 students for a karaoke library system
 (https://students.cs.niu.edu/~z2019359/index.php)
 
 # Karaoke Library System
