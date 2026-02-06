@@ -19,6 +19,6 @@ A web-based karaoke management system that allows users to browse songs, request
 - C++
 
 ## Team Members
-- [Samad]
-- [Drew]
-- [Josh]
+- [Samad Afolabi]
+- [Andrew Fiawoo]
+- [Joshua Jackson]
